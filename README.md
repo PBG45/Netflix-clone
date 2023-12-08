@@ -43,6 +43,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any questions or feedback, please contact [your-email@example.com](mailto:pratikgaonkar577@gmail.com.com).
+For any questions or feedback, please contact [pratikgaonkar577@gmail.com](mailto:pratikgaonkar577@gmail.com.com).
 
 Enjoy your Netflix clone experience! 🍿
