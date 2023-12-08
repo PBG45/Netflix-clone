@@ -529,7 +529,7 @@ select:focus-visible {
         .content{
                 background-color: #000000;
                 background: linear-gradient(to top,#121C42,#000000);
-                height: 50vh;
+                height: 100%;
                 width: 100%;
                padding-top: 40px;
                margin-top: 0;
