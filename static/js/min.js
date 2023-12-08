@@ -58,7 +58,7 @@ $(document).ready(function () {
       $("#plus6").animate({ rotate: '0deg' });
 
       if ($(window).width() < 600) {
-        $(".sub-content3").css("height", "150vh");
+        $(".sub-content3").css("height", "180vh");
       } else {
         $(".sub-content3").css("height", "150vh");
       }
@@ -73,7 +73,7 @@ $(document).ready(function () {
         $("#plus2").animate({ rotate: "0deg" }, "slow");
 
         if ($(window).width() < 600) {
-          $(".sub-content3").css("height", "150vh");
+          $(".sub-content3").css("height", "180vh");
         }
 
         if ($(window).width() > 600) {
