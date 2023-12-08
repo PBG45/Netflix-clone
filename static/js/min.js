@@ -16,7 +16,7 @@ $(document).ready(function () {
       $("#plus6").animate({ rotate: '0deg' });
 
       if ($(window).width() < 600) {
-        $(".sub-content3").css("height", "260vh");
+        $(".sub-content3").css("height", "150vh");
       } else {
         $(".sub-content3").css("height", "150vh");
       }
@@ -31,7 +31,7 @@ $(document).ready(function () {
         $("#plus").animate({ rotate: "0deg" }, "slow");
 
         if ($(window).width() < 600) {
-          $(".sub-content3").css("height", "200vh");
+          $(".sub-content3").css("height", "150vh");
         }
 
         if ($(window).width() > 600) {
@@ -58,7 +58,7 @@ $(document).ready(function () {
       $("#plus6").animate({ rotate: '0deg' });
 
       if ($(window).width() < 600) {
-        $(".sub-content3").css("height", "280vh");
+        $(".sub-content3").css("height", "150vh");
       } else {
         $(".sub-content3").css("height", "150vh");
       }
@@ -73,7 +73,7 @@ $(document).ready(function () {
         $("#plus2").animate({ rotate: "0deg" }, "slow");
 
         if ($(window).width() < 600) {
-          $(".sub-content3").css("height", "260vh");
+          $(".sub-content3").css("height", "150vh");
         }
 
         if ($(window).width() > 600) {
@@ -99,7 +99,7 @@ $(document).ready(function () {
       $("#plus6").animate({ rotate: '0deg' });
 
       if ($(window).width() < 600) {
-        $(".sub-content3").css("height", "260vh");
+        $(".sub-content3").css("height", "150vh");
       } else {
         $(".sub-content3").css("height", "150vh");
       }
@@ -114,7 +114,7 @@ $(document).ready(function () {
         $("#plus3").animate({ rotate: "0deg" }, "slow");
 
         if ($(window).width() < 600) {
-          $(".sub-content3").css("height", "280vh");
+          $(".sub-content3").css("height", "150vh");
         }
 
         if ($(window).width() > 600) {
@@ -143,7 +143,7 @@ $(document).ready(function () {
 
 
       if ($(window).width() < 600) {
-        $(".sub-content3").css("height", "260vh");
+        $(".sub-content3").css("height", "150vh");
       } else {
         $(".sub-content3").css("height", "150vh");
       }
@@ -158,7 +158,7 @@ $(document).ready(function () {
         $("#plus4").animate({ rotate: "0deg" }, "slow");
 
         if ($(window).width() < 600) {
-          $(".sub-content3").css("height", "200vh");
+          $(".sub-content3").css("height", "150vh");
         }
 
         if ($(window).width() > 600) {
@@ -184,7 +184,7 @@ $(document).ready(function () {
       $("#plus6").animate({ rotate: '0deg' });
 
       if ($(window).width() < 600) {
-        $(".sub-content3").css("height", "260vh");
+        $(".sub-content3").css("height", "150vh");
       } else {
         $(".sub-content3").css("height", "150vh");
       }
@@ -200,7 +200,7 @@ $(document).ready(function () {
         $("#plus5").animate({ rotate: "0deg" }, "slow");
 
         if ($(window).width() < 600) {
-          $(".sub-content3").css("height", "240vh");
+          $(".sub-content3").css("height", "150vh");
         }
 
         if ($(window).width() > 600) {
